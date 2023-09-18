@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "jobs",
+    "slug": "jobsearchapp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4de8ee20-5a52-4836-a466-c46ff9860de5"
+      }
+    },
+    "owner": "fredrikhaugen"
+  }
+}

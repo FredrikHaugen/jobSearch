@@ -17,6 +17,12 @@
         "projectId": "4de8ee20-5a52-4836-a466-c46ff9860de5"
       }
     },
-    "owner": "fredrikhaugen"
+    "owner": "fredrikhaugen",
+    "android": {
+      "package": "com.fredrikhaugen.jobsearchapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fredrikhaugen.jobsearchapp"
+    }
   }
 }
